@@ -7,3 +7,5 @@ Phase - 3 https://docs.google.com/document/d/1ahFsH8xP0NLYW7girjeG6n6xZrIIxGMtlJ
 Phase - 4 https://docs.google.com/document/d/1LWkiTa0DKxaC4FjT_kkJpXK9QQ83-LF2ndP7AgKJ7z0/edit?usp=sharing
 
 Phase - 5 https://docs.google.com/document/d/1ouNkys_CDrk1tRIhR_4MKJe3syvkSILTdvIK2o_tnYk/edit?usp=sharing
+
+Phase - 6 https://docs.google.com/document/d/1jKLyGIvSpJVDFuAuAyyNpElkjTsgShgKkT_4eszTzfA/edit?usp=sharing
