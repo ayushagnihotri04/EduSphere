@@ -9,3 +9,5 @@ Phase - 4 https://docs.google.com/document/d/1LWkiTa0DKxaC4FjT_kkJpXK9QQ83-LF2nd
 Phase - 5 https://docs.google.com/document/d/1ouNkys_CDrk1tRIhR_4MKJe3syvkSILTdvIK2o_tnYk/edit?usp=sharing
 
 Phase - 6 https://docs.google.com/document/d/1jKLyGIvSpJVDFuAuAyyNpElkjTsgShgKkT_4eszTzfA/edit?usp=sharing
+
+Phase - 7 https://docs.google.com/document/d/1XuCwRha6rV28JHUCwVS1k9TmZdGdV9NGkRRz44FA9rk/edit?usp=sharing
